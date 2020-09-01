@@ -62,9 +62,8 @@ body{
   height: 0%;
 }
 .cv{
-  margin-left: 130px;
-}
-
+ margin-left: 130px;
+ }
 .a:hover{
   box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.2),
   inset -4px -4px 6px -1px rgba(255, 255, 255, 0.7),
@@ -94,8 +93,12 @@ a:hover .fa-envelope{
 
 a i{
   font-size: 50px;
-  color: #777;
+  color: rgb(255, 253, 253);
   transition:  0.5s;
+}
+
+.h{
+  color: #000000;
 }
 
 /* 
@@ -104,4 +107,3 @@ a i{
   justify-content: center;
   margin-bottom: 50px;
 } */
-
